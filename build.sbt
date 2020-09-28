@@ -1,4 +1,4 @@
-lazy val root = (project in file(".")).
+lazy val root = project.
   settings(
     name := "AOCP",
     version := "0.1.0",
